@@ -1,0 +1,62 @@
+.App {
+
+  padding-top: 5em;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.avatar{
+  border-radius: 5%;
+}
+
+.bluebg{
+  background-color: #F1F6FB;
+  padding:1em;
+}
+.ptop2{
+  padding-top:2em;
+}
+.p2{
+  padding:.5em;
+}
+.m2{
+  margin: .5em;
+}
+.borderbox{
+  border: 1px #e1e4e8 solid !important;
+  border-top-color: rgb(225, 228, 232);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-right-color: rgb(225, 228, 232);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-bottom-color: rgb(225, 228, 232);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgb(225, 228, 232);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+}
